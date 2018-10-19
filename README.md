@@ -1,5 +1,7 @@
 # Fancy GIT Hello Project
 
+hallo, read me
+
 ## Clone instructions
 
 ```shell
